@@ -1,7 +1,7 @@
 # 📜 Licencia de Uso Personal y Privado
 
 ### 👤 Autor: Juan Carlos Ricardo Romero Chero
-### 🎵 Proyecto: Canciones para Anahí del Pilar Romero Pinedo
+### 🎵 Proyecto: Canciones para mi hijita, mi princesita Anahí del Pilar Romero Pinedo
 
 ---
 
