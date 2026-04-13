@@ -29,4 +29,4 @@ Si has llegado hasta aquí y no eres la destinataria, te pedimos respeto por la 
 *“Donde las palabras fallan, la música habla.”*
 
 ---
-© 2026 **[Tu Nombre Completo]** | Todos los derechos reservados.
+© 2026 **Juan Carlos Ricardo Romero Chero** | Todos los derechos reservados.
