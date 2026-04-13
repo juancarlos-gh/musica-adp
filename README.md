@@ -1,15 +1,32 @@
-# ❤️ Música para mi hijita, mi princesita
+# 🕊️ Una Herencia en Notas y Palabras
 
-Bienvenida a este rincón secreto. Aquí están las canciones que escribí para ti y por ti, guardadas en la "nube" para que nunca se pierdan.
+> *"La música es el único camino que el tiempo no puede cerrar."*
 
-### 🎧 Cómo escuchar:
-Puedes escucharlas todas directamente en la web oficial: 
-👉 **[anahi.tuiio.com](http://anahi.tuiio.com)**
-
-### 🛠️ Detalles técnicos:
-- **Audio:** MP3 Alta Calidad (GitHub Raw Storage)
-- **Estado:** 100% Operativo
-- **Seguridad:** Encriptado vía HTTPS
+Este espacio no es solo un repositorio de código; es una **cápsula del tiempo** y una **propiedad sentimental**. 
 
 ---
-*Hecho con ❤️ por tu Papá.*
+
+### 🎨 Propiedad Intelectual y Afectiva
+Toda la música, las letras y el diseño contenidos en este refugio digital pertenecen a:
+**Juan Carlos Ricardo Romero Chero** Está dedicado con amor eterno a mi hijita, mi princesita **Anahí del Pilar Romero Pinedo**.
+
+---
+
+### 📜 Términos del Corazón (Licencia)
+
+Para proteger la esencia de este regalo, rigen las siguientes voluntades:
+
+* **✨ Único Destino:** Este material ha sido creado para la escucha personal y privada de mi hijita.
+* **🚫 Sin Fines de Lucro:** Queda prohibida cualquier forma de explotación comercial. El amor no tiene precio, y estas canciones tampoco.
+* **🔒 Integridad:** No se permiten versiones, remixes o alteraciones. Las canciones deben permanecer tal como nacieron de mi alma.
+* **📂 Código:** El motor que mueve este reproductor es libre, pero el mensaje que transporta es sagrado y privado.
+
+---
+
+### 📮 Una Botella al Mar
+Si has llegado hasta aquí y no eres la destinataria, te pedimos respeto por la privacidad de este puente entre un padre y su hija.
+
+*“Donde las palabras fallan, la música habla.”*
+
+---
+© 2026 **[Tu Nombre Completo]** | Todos los derechos reservados.
